@@ -10,4 +10,6 @@ The map was created using a manually compiled dataset of flight destinations whi
 
 The repository consists of an html, a css, and a js files. The website uses **_Mapbox GL JS, Mapbox Geocoder Plugin, and Bootstrap CSS_**, all of which are noted in the html file. The website has such interactivity as a **_Scale Control, Navigation Control, Mapbox Geocoder, Popup_**.
 
+I was also going to implement the mapbox-gl-globe-minimap but I encountered issues that I was unable to troubleshoot and figure out. I think that my code still has some issues which I encountered in the developer mode but I do not think that they affect the current functionality of the website. Nevertheless, I hope to address them soon and figure out the minimap add-on as well.
+
 ## Here is the link to the map: https://polina-gorn.github.io/Lab3/ 
